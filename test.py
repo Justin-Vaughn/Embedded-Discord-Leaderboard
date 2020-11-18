@@ -1,7 +1,7 @@
 import requests
 import json
 
-apiKey = "8b189343-4d6b-430b-a380-4f91bcd428ef"
+apiKey = "API_KEY"
 
 print("Requesting API...")
 guildRAW = requests.get(f"https://api.hypixel.net/guild?key={apiKey}&id=5cf5a97977ce84f4a05b066f").json()  # Calls hypixel guild API
