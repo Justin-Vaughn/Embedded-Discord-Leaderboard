@@ -1,5 +1,6 @@
 # GuildXP
-Gets guild xp utilizing the HypixelAPI
+Creates a leaderboard of users based on total daily experience
+
 Developed a program that would display users’ accumulated experience gained in games. The program also tracks trends, total experience gained, and the positions of each user in chronological order.
 
 - Parsed API using a combination of Python and JSON
